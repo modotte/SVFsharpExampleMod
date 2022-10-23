@@ -1,0 +1,11 @@
+{
+  "Name": "SVFSharpExampleMod",
+  "Author": "Author Name",
+  "Version": "0.1.0",
+  "Description": "Example description",
+  "UniqueID": "author_name.mod_name",
+  "EntryDll": "SVFSharpExampleMod.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
+
