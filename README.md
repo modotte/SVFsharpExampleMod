@@ -24,9 +24,7 @@ See [INSTALL.md](https://github.com/modotte/SVFSharpExampleMod/blob/main/INSTALL
 ### Instructions
 
 1. `git clone https://github.com/modotte/SVFSharpExampleMod` into a folder.
-2. Change ***GamePath*** property inside of **P2PAnimalNoise.fsproj** file to
-   reflect your Stardew Valley installation folder path.
-3. Run `dotnet build --configuration Release`. Remember, ***DO NOT*** omit/skip
+2. Run `dotnet build --configuration Release`. Remember, ***DO NOT*** omit/skip
    `--configuration Release` option when building for test run.
 
 ## License

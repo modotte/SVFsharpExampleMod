@@ -7,8 +7,6 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <!-- Example game path on linux: /home/user/.wine/drive_c/GOG Games/Stardew Valley -->
-    <GamePath>/home/modotte/.wine/drive_c/Games/Stardew Valley</GamePath>
     <BundleExtraAssemblies>ThirdParty</BundleExtraAssemblies>
     <IgnoreModFilePatterns>FSharp.Core.resources.dll$</IgnoreModFilePatterns>
   </PropertyGroup>
